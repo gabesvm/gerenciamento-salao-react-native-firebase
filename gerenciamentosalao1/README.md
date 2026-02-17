@@ -132,7 +132,7 @@ Data is stored using Firebase Realtime Database with:
 
 ## 👨‍💻 Author
 
-Gabriel Silva  
+Gabriel Steven  
 Systems Analysis and Development
 
 
